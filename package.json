@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/antaresalex/js-lesson7#readme",
   "devDependencies": {
-    "jest": "26.6.3"
+    "@types/node": "^16.4.1",
+    "ts-node": "^10.0.0",
+    "jest": "^26.6.3"
   }
 }
